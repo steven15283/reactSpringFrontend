@@ -7,9 +7,10 @@ const HeaderComponent = () => {
             <nav className = "navbar navbar-expand-md navbar-dark bg-dark">
                 <div>
                     <a href = "https://www.linkedin.com/in/steven-guo-514375171/" className = "navbar-brand">
-                    Employee Management Application
+                    My Linkedin
                     </a>
                 </div>
+                <div className="navbar-brand ">Employee Management Application</div>
                 
             </nav>
         </header>
