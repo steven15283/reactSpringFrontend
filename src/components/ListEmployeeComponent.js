@@ -30,7 +30,7 @@ const ListEmployeeComponent = () => {
   return (
     <div className = "container">
         <h2 className = "text-center">List Employees</h2>
-
+        <p className = "text-center">NOTE: the frontend and backend is ran seperately so loading time is much longer. </p>
         <Link to ="/add-employee">
             <button className = "btn-primary mb-2">Add Employee</button>
         </Link>
