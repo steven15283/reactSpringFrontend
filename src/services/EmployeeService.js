@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const EMPLOYEE_BASE_REST_API_URL = 'https://react-springboot-fullstack-sg.herokuapp.com/api/v1/employees';
+const EMPLOYEE_BASE_REST_API_URL = 'https://backend-employee-app.herokuapp.com/api/v1/employees';
 
 class EmployeeService{
 
